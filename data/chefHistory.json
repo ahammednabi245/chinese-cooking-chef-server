@@ -5,7 +5,8 @@
         "experience": "6",
         "recipes_numbers": "15",
         "likes": "4.5",
-        "chef_img": "https://i.postimg.cc/7Ctk8Qtw/accounts-1.png",
+        "description": "Chef Martin Yan is a well-known Chinese chef, author, and television personality. He was born in Guangzhou, China, in 1948 and grew up in Hong Kong. Yan is best known for his PBS television show, Yan Can Cook, which premiered in 1982 and showcased his culinary skills and infectious personality. He has authored over 30 cookbooks, including Martin Yan's Feast and Martin Yan's China, and has won numerous awards for his contributions to the culinary world. Yan continues to promote Chinese cuisine and culture through his cooking and television appearances.",
+        "chef_img": "https://kitchenchat.info/wp-content/uploads/2021/01/IMG_1404-788x1024.jpg",
         "quantity": 0
     },
     {
@@ -14,7 +15,8 @@
         "experience": "5.5",
         "recipes_numbers": "20",
         "likes": "4",
-        "chef_img": "https://i.postimg.cc/bDKfdSj5/business-1.png",
+        "description": "Chef Ken Hom is a Chinese chef, author, and television presenter. He is known for his expertise in Chinese cuisine and has authored over 30 cookbooks. Hom has also hosted several cooking shows, including Ken Hom's Chinese Cookery and Exploring China: A Culinary Adventure. He has received numerous awards for his contributions to the culinary world.", 
+        "chef_img": "https://i.pinimg.com/736x/80/f9/1e/80f91e13c595c3fa59a4b0b6d2380ffc--ken-hom-chinese-american.jpg",
         "quantity": 0
     },
     {
@@ -23,7 +25,8 @@
         "experience": "7",
         "recipes_numbers": "28",
         "likes": "4.5",
-        "chef_img": "https://i.postimg.cc/dDyKp62c/social-media-1.png",
+        "description": "Chef Susanna Foo is a Chinese chef known for her fusion of  Chinese cuisine. She has won numerous awards, including the James Beard Foundation Award for Best Chef in the Mid-Atlantic Region. Foo has also authored several cookbooks and opened multiple restaurants, including her eponymous restaurant in Philadelphia.",
+        "chef_img": "https://i.pinimg.com/736x/d5/de/f0/d5def0834a229ce41158d79f62a3a107.jpg",
         "quantity": 0
     },
     {
@@ -32,7 +35,8 @@
         "experience": "4",
         "recipes_numbers": "13",
         "likes": "3.5",
-        "chef_img": "https://i.postimg.cc/8fMQvkpz/chip-1.png",
+        "description": "Chef Cecilia Chiang is a Chinese chef and restaurateur who is credited with introducing authentic Chinese cuisine to the Chine. She opened her first restaurant, The Mandarin, in Guangzhou in 1961, and it quickly became a popular destination for food lovers. Chiang has received numerous awards for her contributions to the culinary industry.",
+        "chef_img": "https://img.theepochtimes.com/assets/uploads/2019/03/22/Epoch-Times-chef-jon-zhang1.jpg",
         "quantity": 0
     },
     {
@@ -41,16 +45,18 @@
         "experience": "5",
         "recipes_numbers": "9",
         "likes": "5",
-        "chef_img": "https://i.postimg.cc/8fMQvkpz/chip-1.png",
+        "description": "Chef Alvin Leung, also known as the Demon Chef, is a Chinese-born chef based in Hong Kong. He is known for his unconventional cooking style and incorporation of molecular gastronomy techniques into traditional Chinese cuisine. Leung has earned three Michelin stars for his restaurant, Bo Innovation, and has appeared as a judge on MasterChef China.",
+        "chef_img": "https://st2.depositphotos.com/1005893/8669/i/600/depositphotos_86696890-stock-photo-mature-chinese-chef-presenting-dish.jpg",
         "quantity": 0
     },
     {
         "id": "6",
-        "chef_name": "6.5",
-        "experience": "224 Jobs Available",
+        "chef_name": "Chef Danny Bowien",
+        "experience": "9",
         "recipes_numbers": "11",
         "likes": "4",
-        "chef_img": "https://i.postimg.cc/8fMQvkpz/chip-1.png",
+        "description": "Chef Danny Bowien is a Chinese chef and restaurateur known for his fusion of Chinese cuisine. He is the founder of Mission Chinese Food, which has locations in Guangzhou. Bowien has won numerous awards for his innovative approach to cooking and culinary entrepreneurship.",
+        "chef_img": "https://img.lovepik.com/free-png/20210919/lovepik-chinese-food-chef-png-image_400653754_wh1200.png",
         "quantity": 0
     }
 ]
